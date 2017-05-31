@@ -1,37 +1,174 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Curriculo Renato Eiras</title>
+        <meta charset="utf-8">
+        <meta name="description" content="Currículo Renato Garcia Madalen Eiras">
+        <title>Renato Garcia Madalen Eiras</title>
+        <style type="text/css">
+            h1 {color: midnightblue;
+                font-family: 'Times New Roman';
+                font-size: 5em;
+                line-height: 20px;
+            }
+            body{background-color: azure;}
+            .nome{color: darkblue;}
+            .color{color: cornflowerblue}    
+            h2 {color: darkblue;
+                font-family: sans-serif;
+            }    
+            h3 {color: darkblue;
+                font-family: sans-serif;
+            }
+            li {color: cornflowerblue;
+                font-family: sans-serif;
+            }
+            
+        </style>
+        
+    </head>
+    <body>
+        <h1 style="text-align:center;">
+            Renato Garcia Madalen Eiras
+        </h1>
+        
+        <p>
+             <a href="https://www.facebook.com/renato.eiras.7" target="_blank" ><img src="https://scontent.fsdu8-2.fna.fbcdn.net/v/t1.0-1/c0.41.160.160/p160x160/18835564_1431971736869681_6945323663768314096_n.jpg?oh=451a4c94e270ac60dc1f5868299b835f&oe=59AFC38F" title="Renato Garcia Madalen Eiras" width=200 heigth=200> </a>
+        </p>
 
-You can use the [editor on GitHub](https://github.com/Reiras26/Curriculum_Vitae/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Reiras26/Curriculum_Vitae/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+        <ul>
+            <li><strong class="nome" >Dados:</strong>
+                <ul>
+                    <li>Brasileiro, Solteiro</li>
+                    <li>Data de Nascimento: 26/03/1990</li>
+                    <li>Endereço: Rua Aguiar 48, Ap 501</li>
+                    <li>Tijuca, Rio de Janeiro - RJ</li>
+                    <li>Telefones:(021)964232530/(021)31763858</li>
+                    <li>Email: renatoeiras26@gmail.com</li>
+                </ul>
+            </li>    
+        </ul>
+        <h2>
+            <strong>Analista de Testes/Gerente Assistente de Resultados</strong>
+        </h2>
+        <h2>
+            Objetivo:
+        </h2>
+            <li class="color">Vaga de emprego ou estágio na área de TI, preferivelmente com testes ou QA.Tenho muito interesse em aprimorar meus conhecimentos e acompanhar o mercado.</li>
+        <h2>
+            <b>Resumo das Qualificações:</b>
+        </h2>
+        <ul>
+            <li>Trabalhei como Analista de Testes na ATOS, durante os Jogos Olímpicos Rio 2016. Durante a vigência do contrato, fui selecionado para ocupar, ainda, o cargo de Assistente de Gerente de Resultados da Instalação. Tenho conhecimento amplo em criação de casos de testes e de como implementa-los, bem como realizo acompanhamento de defeitos registrados. Possuo experiência com Suporte ao Usuário e estou focando meus estudos, atualmente, em programação, pois me interesso pela área. Tenho disponibilidade para viagens.</li>
+        </ul>
+        
+        <h2>
+            Experiencia Profissional:
+        </h2>
+        <ul>
+            <li><strong>Gerente Assistente de Resultados na <a href="https://www.olympic.org/rio-2016" target="_blank">Rio 2016</a> - Comitê Organizador dos Jogos Olímpicos e
+            Paralímpicos (2015-2016)</strong>
+                <ul>    
+                    <li>Realização de testes com Interfaces de Sistemas de Resultados OVR-IDS, relatórios impressos, scoreboard,
+                    Web Results e TV Graphics;</li>
+                    <li>Aplicação de diretrizes de testes fornecidas pelo Testing & ITL;
+                    Login de defeitos, seguindo critérios de rastreamento, utilizando HPQC (ferramenta de rastreamento de
+                    defeitos);</li>
+                    <li>Aplicação do processo Defect Traking: rastreamento de status do defeito;
+                    <li>Acompanhamento do plano de testes e resultados, e execução de cada teste/aplicação/sistema;</li>
+                    <li>Garantia de QA em todos os esportes, em linha com o documento de Estratégia de Teste de Integração;</li>
+                    <li>Avaliação de resultados de testes e elaboração de relatório em acordo com Testing & ITL.</li>
+                </ul>
+            </li>
+            <li><strong>Analista de Testes na <a href="https://atos.net/en/" target="_blank">Atos IT Solutions and Services A/S</a> (2015-2015)</strong>
+                <ul>
+                    <li> Intermediação entre a Omega (Provedora de Software Olímpico), o Comitê RIO 2016; a Samsung (provedora
+                    de Software Mobile); a Microsoft (Provedora do Software Webiste); e a ATOS;</li>
+                    <li>Teste funcional, de qualidade e de usuário;</li>
+                    <li> Teste em Web e em Mobile;</li>
+                    <li>Gerenciamento de defeitos, análise de QA e elaboração de planejamento de testes;</li>
+                    <li>Teste de Software dos Jogos Olímpicos Rio 2016 dos seguintes esportes: Basquetebol, Basquetebol em
+                    Cadeira de Rodas, Futebol e Rugby em Cadeira de Rodas.</li>
+                </ul>
+            </li>
+            <li><strong>Analista de Testes - Estagiario na <a href="https://www.gazeus.com/pt/" target="_blank">Gazeus Games</a> (2014-2014)</strong>
+                <ul>
+                    <li>Teste funcional em Mobile e Webservice</li>
+                    <li>Acompanhamento dos defecitos com a ferramenta "Jira"</li>
+                    <li>Teste de Qualidade em jogos para mobile</li>
+                </ul>
+            </li>    
+            <li><strong>Estagiário na <a href="http://pt.ariba.com/programs/quadrem" target="_blank">Quadrem/Ariba</a> (2011-2011)</strong>
+                <ul>
+                    <li>Suporte ao usuário</li>
+                    <li>Configuração de redes</li>
+                </ul>
+            </li>    
+        </ul>
+        <h3 >
+            Linguas:
+        </h3>
+        <ol>
+            <li>Portugues: Nativo</li>
+            <li>Ingles: Fluente</li>
+            <li>Espanhol: Básico</li>
+        </ol>
+        <h3>
+            Formação Academica:
+        </h3>
+        <ol>
+            <li><b><a href="http://www.uff.br/" target="_blank">Universidade Federal Fluminense</a></b> - Sistemas de Informação (Trancado - 5º período)</li>    
+            <li><b><a href="https://www.uva.br/" target="_blank">Universidade Veiga de Almeida</a></b> - Sistemas de Informação (Cursando)</li>
+        </ol>
+        <h3>
+            Cursos:
+        </h3>
+            <ol>
+                <li><a href="https://www.caelum.com.br/formacao-java" target="_blank">Formação Java</a> : Caelum</li>
+                <li><a href="https://www.udemy.com/java-tutorial/learn/v4/overview" target="_blank">Jogos 2D para Android com Unity 5 + C#</a> : Udemy</li>
+                <li><a href="https://www.udemy.com/desenvolvimento-de-jogos-2d-para-android-com-unity-5/learn/v4/overview" target="_blank">Java Tutorial for Complete Beginners</a> : Udemy</li>
+                <li><a href="https://www.udemy.com/microsoft-sql-server-an-introduction/learn/v4/overview" target="_blank">Microsoft SQL Server - An Introduction</a> : Udemy</li>
+                <li><a href="https://www.udemy.com/70-461-session-1-querying-microsoft-sql-server-2012/learn/v4/overview" target="_blank">70-461 Session 1: Querying Microsoft SQL Server 2012</a> : Udemy</li>
+            </ol>
+        <h3>
+            Competências e Especialidades:
+        </h3>
+            <ol>
+                <li>Testes</li>
+                <li>UML</li>
+                <li>Desenvolvimento de software</li>
+                <li>Java</li>
+                <li>Scrum</li>
+                <li>Microsoft Office</li>
+                <li>Sistemas operacionais</li>
+                <li>Oracle</li>
+                <li>Microsoft Excel</li>
+                <li>ITIL</li>
+                <li>Gestão de projetos</li>
+                <li>Gerenciamento de serviços de TI</li>
+                <li>Análise de requisitos</li>
+                <li>Microsoft Windows</li>
+                <li>SQL</li>
+                <li>HP Quality Center</li>
+                <li>Planejamento de testes</li>
+                <li>Liderança de equipe</li>
+                <li>Testing</li>
+            </ol>
+       <!--<table border="2">
+            <caption><b>FOTOS DE GATOS</b></caption>
+            <th>Fotos</th><th>Fotos</th>
+            <tr>    
+                <td><img src="gato1.jpg" width=300 heigth=300></td><td><img src="gato2.jpg" width=300 heigth=300></td>
+            </tr> 
+            <tr>
+                <td>><img src="gato3.jpg" width=300 heigth=300></td><td><img src="gato4.jpg" width=300 heigth=300></td>
+            </tr>            
+        </table>-->
+        
+    </body>
+</html>
